@@ -2,10 +2,11 @@
 
 ## Description
 
-Client (Horiseon) reached out to request functional improvements for their website. This website required the addition of accessibility features to meet standards/requirements. There were also functional errors, needed aesthetic improvements, and repetitious code. Actions were taken to:
+Client (Horiseon) reached out to request functional improvements for their website. This website required the addition of accessibility features to meet standards/requirements. There were also functional errors, needed aesthetic improvements, repetitious code, and disorganized code. Actions were taken to:
 * resolve errors (navigation links are functioning correctly)
 * fix aesthetics (title updated)
 * remove repetitious code (CSS code altered to remove repetition for content and benefits sections as well as for font color throughout website)
+* reorganized code (reorganized HTML and CSS code so that it follows a logical flow structor)
 * add alternative text to images on the website
 
 ## User Story
@@ -35,3 +36,6 @@ It is done when I have refactored the codebase to change the title element to be
 * The URL of the deployed application: https://sstover25.github.io/Horiseon-accessibility-challenge/
 
 * The URL of the GitHub repository: https://github.com/sstover25/Horiseon-accessibility-challenge
+
+- - -
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
